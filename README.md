@@ -3,8 +3,9 @@ Getting and Cleaning Data - Project:
 Loaded necessary libraries and source scripts.
 Assuming `getdata-projectfiles-UCI HAR Dataset.zip` in the working directory, 
 unzipped the data.
+
 Loaded `activity_labels` to use as descriptive activity names.
-Loaded `features`.
+Loaded `features` to use as variable name.
 
 Loaded portions of `train` data and `test` data.
 Combined portions of `train` data and portions of `test` data 
