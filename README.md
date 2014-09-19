@@ -1,7 +1,8 @@
 Getting and Cleaning Data - Project:
 
 Loaded necessary libraries and source scripts.
-Unzipped the samsung data.
+Assuming `getdata-projectfiles-UCI HAR Dataset.zip` in the working directory, 
+unzipped the data.
 Loaded `activity_labels` to use as descriptive activity names.
 Loaded `features`.
 
